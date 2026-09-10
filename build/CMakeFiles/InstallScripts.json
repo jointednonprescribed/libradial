@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/code/jointednonprescribed/libradial/main/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

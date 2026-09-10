@@ -1,0 +1,1 @@
+/usr/bin/g++ -fPIC -shared -Wl,--dependency-file=CMakeFiles/dlibradial.dir/link.d -Wl,-soname,libradial.so -o libradial.so CMakeFiles/dlibradial.dir/dummyfiles/dummy.c.o  libradial.a /usr/lib/libm.so
