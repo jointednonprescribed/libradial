@@ -6,7 +6,11 @@
 
 
 
-
+void* _lrad_malloc(size_t size);
+void* _lrad_realloc(void *ptr, size_t size);
+void* _lrad_use_ptr(void *ptr);
+void* _lrad_copy(void *ptr);
+void* _lrad_drop(void *ptr);
 
 
 

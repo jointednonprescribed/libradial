@@ -6,7 +6,7 @@
 
 
 
-//#include "types/complex.h"
+#include "types/complex.h"
 #include "types/vec.h"
 //#include "types/mat.h"
 #include "types/decimal.h"
